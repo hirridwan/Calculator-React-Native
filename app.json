@@ -1,0 +1,11 @@
+{
+  "expo": {
+    "name": "react-native-paper",
+    "slug": "react-native-paper",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  },
+  "name": "react-native-paper"
+}
